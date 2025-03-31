@@ -134,6 +134,7 @@ ENV/
 env.bak/
 venv.bak/
 lc-academy-env/
+academy/
 
 # Spyder project settings
 .spyderproject
